@@ -1,14 +1,12 @@
-https://note1s.com/notes/MKQTOXP
-
 Lưu Ý Nhớ Cho Quyền Lưu Trữ Cho Termux
 
-Setup Python 
+<h5>Setup Python<h5/> 
 
 Lệnh 1: termux-change-repo
 
 Lệnh 2: termux-setup-storage && apt update && apt upgrade && pkg install python && pip install requests && pip install bs4 && pip install colorama 
 
-Setup php 
+<h5>Setup php <h5/>
 
 Bước 1 Chọn Lệnh :  apt update
 
